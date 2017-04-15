@@ -1,17 +1,11 @@
-# I've made copy of my existing file on git.
+# Kostiantyn Levytskyi
 
-**Requirements:** `linux, node, npm`
-
-## Installing
-```
-npm i
+```javascript
+((a)=>console.log(a))(a)
+const a='Hello World!';
 ```
 
-## Running
+* [My GitHub](https://github.com/KonstantoS)
+* [Google](https://google.com)
 
-Run in terminal
-```
-npm start
-```
 
-Open [http://localhost:3000](http://localhost:3000)
